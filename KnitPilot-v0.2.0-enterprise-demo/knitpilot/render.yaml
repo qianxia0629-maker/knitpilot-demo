@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: knitpilot-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: KNITPILOT_REQUIRE_DEMO_TOKEN
+        value: "1"
+      - key: KNITPILOT_DEMO_TOKEN
+        sync: false

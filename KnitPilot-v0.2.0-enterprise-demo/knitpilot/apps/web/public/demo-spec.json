@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "name": {
+      "value": "Basic pullover",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "size": {
+      "value": "M",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "garment": {
+    "style": {
+      "value": "crew_neck_pullover",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "sleeve_style": {
+      "value": "long",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "shoulder_style": {
+      "value": "set_in",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "stitch_structure": {
+      "value": "stockinette",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "machine": {
+    "name": {
+      "value": "test machine",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "min_needles": {
+      "value": 2,
+      "unit": "stitches",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "max_needles": {
+      "value": 220,
+      "unit": "stitches",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "yarn": {
+    "description": {
+      "value": "test yarn",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "gauge": {
+    "stitches_per_10cm": {
+      "value": 20,
+      "unit": "stitches/10cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "rows_per_10cm": {
+      "value": 30,
+      "unit": "rows/10cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "shrinkage": {
+    "horizontal": {
+      "value": -0.05,
+      "unit": "fraction",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "vertical": {
+      "value": -0.04,
+      "unit": "fraction",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "measurements": {
+    "chest_width": {
+      "value": 58,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "body_length": {
+      "value": 64,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "armhole_depth": {
+      "value": 22,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "shoulder_width": {
+      "value": 44,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "shoulder_slope": {
+      "value": 2,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "neck_width": {
+      "value": 18,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "front_neck_depth": {
+      "value": 9,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "back_neck_depth": {
+      "value": 3,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "sleeve_length": {
+      "value": 60,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "sleeve_cuff_width": {
+      "value": 20,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "sleeve_upper_width": {
+      "value": 38,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "sleeve_cap_height": {
+      "value": 19.5,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "sleeve_cap_top_width": {
+      "value": 12,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "hem_rib_height": {
+      "value": 6,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "neck_rib_height": {
+      "value": 3,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "neck_rib_circumference": {
+      "value": 48,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "back_panel": {},
+  "front_panel": {},
+  "sleeve": {},
+  "neck_rib": {
+    "kind": {
+      "value": "1x1",
+      "unit": null,
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "qc": {
+    "seam_tolerance_cm": {
+      "value": 2,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "dimension_tolerance_cm": {
+      "value": 1,
+      "unit": "cm",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  },
+  "source": {
+    "file_ids": []
+  },
+  "repeats": {
+    "pattern_repeat": {
+      "value": 2,
+      "unit": "stitches",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    },
+    "rib_repeat": {
+      "value": 2,
+      "unit": "stitches",
+      "source": "manual:fixture",
+      "confidence": 1.0,
+      "confirmed": true
+    }
+  }
+}

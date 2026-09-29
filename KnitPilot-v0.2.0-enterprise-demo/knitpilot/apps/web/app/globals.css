@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #f4f6f8; color: #162331; font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
+.card { background: #fff; border: 1px solid #e7ebee; box-shadow: 0 12px 36px rgba(19,43,65,.045); border-radius: 18px; }
+.field-input { width: 100%; outline: none; border: 1px solid #dde3e7; border-radius: 9px; padding: 10px 12px; background: #fff; transition: .15s ease; }
+.field-input:focus { border-color: #237776; box-shadow: 0 0 0 3px rgba(35,119,118,.12); }
+.subtle-scroll::-webkit-scrollbar { width: 6px; }
+.subtle-scroll::-webkit-scrollbar-thumb { background: #ccd5d9; border-radius: 6px; }
